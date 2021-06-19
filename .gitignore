@@ -455,3 +455,8 @@ $RECYCLE.BIN/
 
 #App Settings
 appsettings.json
+
+#workspace files
+*.code-workspace
+
+SSL
