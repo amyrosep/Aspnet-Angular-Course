@@ -459,4 +459,5 @@ appsettings.json
 #workspace files
 *.code-workspace
 
+#Local Cert/Key
 SSL
